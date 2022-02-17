@@ -1,6 +1,6 @@
 
-# setup and mobile version skeleton
-> Portfolio: setup and mobile version skeleton 
+# Microverse Self Review
+> Microverse-trail-self-review
 
 ## Built With
 HTML5
@@ -14,13 +14,13 @@ To setup and install this sample project, follow the below steps:
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/aliatayee/Portfolio-mobile-version-skeleton-.git
+$ git clone https://github.com/aliatayee/Microverse-trail-self-review.git
 ```
 
 - Then switch to the project folder by the bellow query:
 
 ```
-$ cd Portfolio-mobile-version-skeleton-
+$ cd Microverse-trail-self-review
 ```
 
 - Finally, run the index.html file in your browser.
@@ -37,12 +37,6 @@ $ cd Portfolio-mobile-version-skeleton-
 
 - GitHub: [@aliatayee](https://github.com/aliatayee)
 - Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
-
-👤 **Safar Ali**
-
-- GitHub: [@githubhandle](https://github.com/safar1212)
-- Twitter: [@twitterhandle](https://twitter.com/safarali999)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/safar-ali999)
 
 
 ## 🤝 Contributing
